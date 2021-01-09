@@ -1,0 +1,6 @@
+name: VMC
+main: jmc.main.SpigotPlugin
+version: 0.1
+commands:
+  vmc:
+    description: VMC
